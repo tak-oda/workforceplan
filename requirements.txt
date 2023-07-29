@@ -1,0 +1,10 @@
+numpy>=1.14.5
+pandas>=1.5.3
+bqplot>=0.12.39
+py2vega>=0.6.1
+ipydatagrid>=1.1.15
+pyomo>=6.5.0
+ipywidgets>=7.6.5
+ipython>=8.10.0
+matplotlib>=3.7.0
+ipylab>=0.7.1
